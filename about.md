@@ -26,7 +26,17 @@ title: About me
 <p> 
 
 <h4> 欢迎打钱! </h4>
-**支付宝**  ![支付宝](/images/payimg/alipayimg.jpg)**微信**  ![微信](/images/payimg/weipayimg.jpg)
+<p>
+<b>支付宝</b><img src="/images/payimg/alipayimg.jpg" width="100" height="100" />
+<b>微信</b><img src="/images/payimg/weipayimg.jpg" width="100" height="100" />
+<p> 
+
+博客源码在 <a target="_blank" href='https://github.com/775269512/775269512.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+
+<p> 
+
+<p> 
+
 <p> 
 
 
