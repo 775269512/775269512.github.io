@@ -26,7 +26,7 @@ title: About me
 <p> 
 
 <h4> 欢迎打钱! </h4>
-
+**支付宝**  ![支付宝](/images/payimg/alipayimg.jpg)**微信**  ![微信](/images/payimg/weipayimg.jpg)
 <p> 
 
 

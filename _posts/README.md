@@ -1,3 +1,10 @@
+---
+layout: post
+title: "个人简介"
+date: 2019-05-31 
+tag: 博客 
+---   
+
 # 个人博客
 
 * [ZiChuan Liu](http://775269512.github.io) 
