@@ -7,7 +7,7 @@ title: About me
 <p>
 喜欢数学、自然、医学、游泳..
 <p>
-#### Be Careful
+<h4> Be Careful </h4>
 <p>
 	My crimes and sins are beyond counting..
 <p>
@@ -15,13 +15,17 @@ title: About me
 <h3> 我的涉及方向 </h3>  
 <p>
 * Android 基本开发
+<p>
 * 对爬虫的简单运用
+<p>
 * 了解机器学习\深度学习相关算法
+<p>
 * 了解前端基本概念
+<p>
 * python\Matlab 菜鸡调库工程师
 <p> 
 
-# 欢迎打钱
+<h4> 欢迎打钱! </h4>
 
 <p> 
 
