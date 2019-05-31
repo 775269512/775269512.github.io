@@ -1,28 +1,28 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 睡不醒的某某川
+subtitle: 单身中..
+description: 欢迎来到我的个人博客~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 刘子川
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Android / 机器学习
+url: "http://775269512.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: 睡不醒的某某川
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
+    weibo: None 
+    github: 775269512
+    # zhihu: None
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: None
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 775269512@qq.com
 
 
 # 百度统计 
