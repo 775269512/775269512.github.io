@@ -1,7 +1,7 @@
 # Basic
 title: 睡不醒的某某川
-subtitle: 单身中..
-description: 欢迎来到我的个人博客~
+subtitle: bachelordom..
+description: My crimes and sins are beyond counting
 # 头像里面的标题
 avatarTitle: 刘子川
 # 头像里面的描述
@@ -10,7 +10,7 @@ url: "http://775269512.github.io"
 
 # Comment
 comment:
-    disqus: 睡不醒的某某川
+    # disqus: 睡不醒的某某川
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
@@ -56,13 +56,13 @@ cover_color:
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: Home
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: Articles, description: archive, url: '/archive'}   
+    - {title: Tags, description: tags, url: '/tags'}      
+    - {title: About, description: about, url: '/about'}      
     
 
 # Pagination
