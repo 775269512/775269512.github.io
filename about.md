@@ -5,16 +5,16 @@ title: About me
 
 <link rel="stylesheet" href="../css/buttons.css">
 
-
-Ordinary student studying in Wuhan University of Technology.
-
-<p>
-
-I am a Tokener, but like math, nature, medicine and swimming...
+<strong>I am a Tokener, Ordinary student studying in Wuhan University of Technology.</strong>
 
 <p>
 
-A gpa of over 4.2, with awards countless
+A gpa of over 4.2 with awards countless. Maybe you will worship, maybe you despise me, but I don't care about what you think. 
+Walter Savage Landor I strove with none, for none was worth my strife.Nature I loved and, next to Nature, Art:I warm'd both hands before the fire of life.
+
+<p>
+
+I like math, nature, medicine and swimming..There are my positive pleasure, but on the other hand, whores and coins are my favorites too. Why? Because I'm tired of relationships, tt hurts me many times.
 
 <p>
 
@@ -22,35 +22,21 @@ A gpa of over 4.2, with awards countless
 
 <p>
 
-	My crimes and sins are beyond counting..
+<strong>		My crimes and sins are beyond counting..</strong>
 
 <p>
 
 <h3> Directions involved </h3>  
-
 <p>
 
-* Android Development
-
-<p>
-
-* Mathematical modeling
-
-<p>
-
-* Machine Learning in Python\Matlab
-
-<p>
-
-* Web Spider and front-end development
-
-<p>
-
-* Knowledge of botany
-
-<p>
-
-* Knowledge of clinical medicine
+<ul>
+<li>Android Development</li>
+<li>Mathematical modeling</li>
+<li>Machine Learning in Python\Matlab</li>
+<li>Web Spider and front-end development</li>
+<li>Knowledge of botany</li>
+<li>Knowledge of clinical medicine</li>
+</ul>
 
 <p>
  
@@ -74,27 +60,9 @@ Bilibili : 身在汉营心在曹
 
 <p>
 
-Github : 775269512
-
-<p>
-
 Email : 775269512@qq.com
 
 <p>
-
-<h3> Blogroll </h3>
-
-<P>
-
-<a href="http://whutlcy.cn/Blog/" class="button button-rounded"><strong>lcy</strong></a>
-<a href="http://blog.zhangone.top/" class="button button-rounded"><strong>张同学</strong></a>
-<a href="https://nikokvcs.github.io/" class="button button-rounded" ><strong>NikoKVCS</strong></a>
-<a href="https://lsj575.github.io/" class="button button-rounded" ><strong>lsj575</strong></a>
-<a href="http://untitled.pw/" class="button button-rounded" ><strong>路人甲的世界</strong></a>
-<a href="https://liuyousama.github.io" class="button button-rounded"><strong>六游</strong></a>
-<a href="https://darkkris.github.io/" class="button button-rounded"><strong>Dark`Kris</strong></a>
-
-<p> 
 
 
 {% include comments.html %}
