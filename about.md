@@ -44,6 +44,9 @@ I like math, nature, medicine and swimming..There are my positive pleasure, but 
 
 <p>
 
+<div><img src="/images/me.png" />
+
+
 <h3> Contact </h3>
 
 <p>
