@@ -14,7 +14,7 @@ Walter Savage Landor I strove with none, for none was worth my strife.Nature I l
 
 <p>
 
-I like math, nature, medicine and swimming..There are my positive pleasure, but on the other hand, whores and coins are my favorites too. Why? Because I'm tired of relationships, tt hurts me many times.
+I like math, nature, medicine and swimming..There are my positive pleasure, but on the other hand, whores and coins are my favorites too. Why? Because I'm tired of relationships, It hurts me many times.
 
 <p>
 
