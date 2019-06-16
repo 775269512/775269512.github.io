@@ -40,7 +40,7 @@ I like math, nature, medicine and swimming..There are my positive pleasure, but 
 
 <p>
  
-<strong>I still have a long way to go and will be stronger from now on.</strong>
+<strong>I still have a long way to go and will be stronger from now on. </strong>
 
 <p>
 
