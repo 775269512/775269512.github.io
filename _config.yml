@@ -6,7 +6,8 @@ description: Show the white feather
 avatarTitle: 刘子川
 # 头像里面的描述
 avatarDesc: Android / 机器学习
-url: "http://775269512.github.io"
+url: "http://www.lzccc.com" # the base hostname & protocol for your site
+
 
 # Comment
 comment:
