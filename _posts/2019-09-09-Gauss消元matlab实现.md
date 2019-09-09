@@ -50,11 +50,11 @@ function [r_matrix] = GaussElimination(Coefficient_matrix,Load_matrix)
 %         Load_matrix       :载荷矩阵，为n*1维矩阵
 %  outputs：
 %         r_matrix:计算结果向量,为n*1为矩阵
- 
+
 % 判断输入矩阵维度是否满足要求
 [row_coeff,col_coeff] = size(Coefficient_matrix);
 [row_load,~] = size(Load_matrix');
- 
+
 % 初始化r_matrix矩阵
 r_matrix = zeros(row_load,1);
 % 判断输入的维度是否满足要求
@@ -64,20 +64,42 @@ if (row_coeff ~= col_coeff) || (row_coeff ~= row_load)
 else
     % 满足则进行下一步运算
     for k = 1:row_coeff-1
+        %找到主元所在行
+        max=abs(Coefficient_matrix(k,k));
+        m=k;
+        for q=k+1:row_coeff
+            if max<abs(Coefficient_matrix(q,q))
+                max=abs(Coefficient_matrix(q,q));
+                m=q;
+            end
+        end
+        %交换两行选取主元
+        if(m~=k)
+            for i=k:col_coeff
+                %交换系数矩阵两行
+                c(i)=Coefficient_matrix(k,i);
+                Coefficient_matrix(k,i)=Coefficient_matrix(m,i);
+                Coefficient_matrix(m,i)=c(i);
+            end
+            %交换增广矩阵
+            d1=Load_matrix(k);
+            Load_matrix(k)=Load_matrix(m);
+            Load_matrix(m)=d1;
+        end
         % 检查主对角元素第i行的第i个元素是否为0
         if Coefficient_matrix(k,k) == 0
             print('主对角元素错误！');
         else
             % 循环计算第k+1行到最后一行
             for i = k+1:row_coeff
-               L_ik = Coefficient_matrix(i,k) / Coefficient_matrix(k,k); %更新L_ik
-               % 更新每一行从第i个元素开始后的所有元素
-               for j = k+1:col_coeff
-                   Coefficient_matrix(i,j) = Coefficient_matrix(i,j) - ...
-                       L_ik*Coefficient_matrix(k,j); % 更新a(i,j)
-               end
-               Load_matrix(i) = Load_matrix(i) - Load_matrix(k)*L_ik; % 更新b(i)
-               Coefficient_matrix(i,1) = 0; 
+                L_ik = Coefficient_matrix(i,k) / Coefficient_matrix(k,k); %更新L_ik
+                % 更新每一行从第i个元素开始后的所有元素
+                for j = k+1:col_coeff
+                    Coefficient_matrix(i,j) = Coefficient_matrix(i,j) - ...
+                        L_ik*Coefficient_matrix(k,j); % 更新a(i,j)
+                end
+                Load_matrix(i) = Load_matrix(i) - Load_matrix(k)*L_ik; % 更新b(i)
+                Coefficient_matrix(i,1) = 0;
             end %for循环结束
         end % 条件2结束
     end % for循环结束
