@@ -21,10 +21,10 @@ tags: Mathematics
 ![img](/images/posts/matlab/20.png)
 
 
-![img](/images/posts/matlab/21.png)
+
 
 ## Cholesky 分解在计算马氏距离时的作用
-
+![img](/images/posts/matlab/21.png)
 
 ## 代码实现
 
