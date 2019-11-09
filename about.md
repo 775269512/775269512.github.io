@@ -9,7 +9,7 @@ title: About me
 
 <p>
 
-Gpa of over 4.2 with awards countless. Maybe you will worship, maybe you despise me, but I don't care about what you think. 
+Gpa of over 4.0 with awards countless. Maybe you will worship, maybe you despise me, but I don't care about what you think. 
 Walter Savage Landor I strove with none, for none was worth my strife.Nature I loved and, next to Nature, Art:I warm'd both hands before the fire of life.
 
 <p>
